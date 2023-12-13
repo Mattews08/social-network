@@ -1,0 +1,5 @@
+cockroach-data
+*.exe
+*.http
+
+.idea
